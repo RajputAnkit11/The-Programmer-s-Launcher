@@ -1,0 +1,12 @@
+{
+    "manifest_version": 1,
+    "name": "The Programmer's Launcher",
+    "description": "dufvhguhbfdvud",
+    "version": "1.0.0",
+    "icon": {"120": "icon_120.png"},
+    "browser_action": {
+        "default_icon": "icon_32.png",
+        "default_popup": "popup.html",
+    },
+    "permissions": ["activeTab"]
+}
